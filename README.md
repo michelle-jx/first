@@ -1,1 +1,2 @@
-# My Peronal Website
+# My Personal Website
+# my-first-repo
